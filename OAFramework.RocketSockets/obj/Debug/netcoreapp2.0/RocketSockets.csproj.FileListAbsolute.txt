@@ -1,0 +1,10 @@
+C:\Users\MR.mingzhi\Desktop\OAFramework\RocketSockets\bin\Debug\netcoreapp2.0\OAFramework.RocketSockets.deps.json
+C:\Users\MR.mingzhi\Desktop\OAFramework\RocketSockets\bin\Debug\netcoreapp2.0\OAFramework.RocketSockets.dll
+C:\Users\MR.mingzhi\Desktop\OAFramework\RocketSockets\bin\Debug\netcoreapp2.0\OAFramework.RocketSockets.pdb
+C:\Users\MR.mingzhi\Desktop\OAFramework\RocketSockets\bin\Debug\netcoreapp2.0\OAFramework.RocketSockets.xml
+C:\Users\MR.mingzhi\Desktop\OAFramework\RocketSockets\obj\Debug\netcoreapp2.0\RocketSockets.csprojAssemblyReference.cache
+C:\Users\MR.mingzhi\Desktop\OAFramework\RocketSockets\obj\Debug\netcoreapp2.0\RocketSockets.csproj.CoreCompileInputs.cache
+C:\Users\MR.mingzhi\Desktop\OAFramework\RocketSockets\obj\Debug\netcoreapp2.0\RocketSockets.AssemblyInfoInputs.cache
+C:\Users\MR.mingzhi\Desktop\OAFramework\RocketSockets\obj\Debug\netcoreapp2.0\RocketSockets.AssemblyInfo.cs
+C:\Users\MR.mingzhi\Desktop\OAFramework\RocketSockets\obj\Debug\netcoreapp2.0\OAFramework.RocketSockets.dll
+C:\Users\MR.mingzhi\Desktop\OAFramework\RocketSockets\obj\Debug\netcoreapp2.0\OAFramework.RocketSockets.pdb

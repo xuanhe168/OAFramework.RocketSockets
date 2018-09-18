@@ -1,0 +1,4 @@
+C:\Users\MR.mingzhi\Desktop\OAFramework.RocketSockets\OAFramework.RocketSockets.TestUnit\obj\Debug\netcoreapp2.0\OAFramework.RocketSockets.TestUnit.csprojAssemblyReference.cache
+C:\Users\MR.mingzhi\Desktop\OAFramework.RocketSockets\OAFramework.RocketSockets.TestUnit\obj\Debug\netcoreapp2.0\OAFramework.RocketSockets.TestUnit.csproj.CoreCompileInputs.cache
+C:\Users\MR.mingzhi\Desktop\OAFramework.RocketSockets\OAFramework.RocketSockets.TestUnit\obj\Debug\netcoreapp2.0\OAFramework.RocketSockets.TestUnit.AssemblyInfoInputs.cache
+C:\Users\MR.mingzhi\Desktop\OAFramework.RocketSockets\OAFramework.RocketSockets.TestUnit\obj\Debug\netcoreapp2.0\OAFramework.RocketSockets.TestUnit.AssemblyInfo.cs

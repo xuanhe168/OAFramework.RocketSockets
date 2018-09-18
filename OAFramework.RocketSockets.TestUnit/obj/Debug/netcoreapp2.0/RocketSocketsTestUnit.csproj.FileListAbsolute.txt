@@ -1,0 +1,15 @@
+C:\Users\MR.mingzhi\Desktop\OAFramework\RocketSocketsTestUnit\bin\Debug\netcoreapp2.0\RocketSocketsTestUnit.deps.json
+C:\Users\MR.mingzhi\Desktop\OAFramework\RocketSocketsTestUnit\bin\Debug\netcoreapp2.0\RocketSocketsTestUnit.runtimeconfig.json
+C:\Users\MR.mingzhi\Desktop\OAFramework\RocketSocketsTestUnit\bin\Debug\netcoreapp2.0\RocketSocketsTestUnit.runtimeconfig.dev.json
+C:\Users\MR.mingzhi\Desktop\OAFramework\RocketSocketsTestUnit\bin\Debug\netcoreapp2.0\RocketSocketsTestUnit.dll
+C:\Users\MR.mingzhi\Desktop\OAFramework\RocketSocketsTestUnit\bin\Debug\netcoreapp2.0\RocketSocketsTestUnit.pdb
+C:\Users\MR.mingzhi\Desktop\OAFramework\RocketSocketsTestUnit\bin\Debug\netcoreapp2.0\OAFramework.RocketSockets.dll
+C:\Users\MR.mingzhi\Desktop\OAFramework\RocketSocketsTestUnit\bin\Debug\netcoreapp2.0\OAFramework.RocketSockets.pdb
+C:\Users\MR.mingzhi\Desktop\OAFramework\RocketSocketsTestUnit\bin\Debug\netcoreapp2.0\OAFramework.RocketSockets.xml
+C:\Users\MR.mingzhi\Desktop\OAFramework\RocketSocketsTestUnit\obj\Debug\netcoreapp2.0\RocketSocketsTestUnit.csprojAssemblyReference.cache
+C:\Users\MR.mingzhi\Desktop\OAFramework\RocketSocketsTestUnit\obj\Debug\netcoreapp2.0\RocketSocketsTestUnit.csproj.CoreCompileInputs.cache
+C:\Users\MR.mingzhi\Desktop\OAFramework\RocketSocketsTestUnit\obj\Debug\netcoreapp2.0\RocketSocketsTestUnit.AssemblyInfoInputs.cache
+C:\Users\MR.mingzhi\Desktop\OAFramework\RocketSocketsTestUnit\obj\Debug\netcoreapp2.0\RocketSocketsTestUnit.AssemblyInfo.cs
+C:\Users\MR.mingzhi\Desktop\OAFramework\RocketSocketsTestUnit\obj\Debug\netcoreapp2.0\RocketSocketsTestUnit.csproj.CopyComplete
+C:\Users\MR.mingzhi\Desktop\OAFramework\RocketSocketsTestUnit\obj\Debug\netcoreapp2.0\RocketSocketsTestUnit.dll
+C:\Users\MR.mingzhi\Desktop\OAFramework\RocketSocketsTestUnit\obj\Debug\netcoreapp2.0\RocketSocketsTestUnit.pdb

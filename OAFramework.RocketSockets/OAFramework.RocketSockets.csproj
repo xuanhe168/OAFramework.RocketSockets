@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+    <AssemblyName>OAFramework.RocketSockets</AssemblyName>
+    <RootNamespace>OAFramework.RocketSockets</RootNamespace>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DocumentationFile>bin\Debug\netcoreapp1.1\OAFramework.RocketSockets.xml</DocumentationFile>
+  </PropertyGroup>
+
+</Project>

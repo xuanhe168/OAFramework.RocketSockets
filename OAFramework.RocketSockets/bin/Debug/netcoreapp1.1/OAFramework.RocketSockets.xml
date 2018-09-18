@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>OAFramework.RocketSockets</name>
+    </assembly>
+    <members>
+        <member name="F:OAFramework.RocketSockets.values.Values.MESSAGE">
+            <summary>
+            普通消息。
+            Ordinary message.
+            </summary>
+        </member>
+        <member name="F:OAFramework.RocketSockets.values.Values.LOGIN">
+            <summary>
+            客户端登录消息。
+            Client login of the message.
+            </summary>
+        </member>
+        <member name="F:OAFramework.RocketSockets.values.Values.KICKOUT">
+            <summary>
+            踢下线消息。
+            Kick-out message.
+            </summary>
+        </member>
+        <member name="F:OAFramework.RocketSockets.values.Values.PUSHEDOUT">
+            <summary>
+            Being squeezed off the line.
+            被几下线了。
+            </summary>
+        </member>
+        <member name="F:OAFramework.RocketSockets.values.Values.FORWARD">
+            <summary>
+            Message forward.
+            转发消息。
+            </summary>
+        </member>
+    </members>
+</doc>
